@@ -1,0 +1,10 @@
+# Contact @botfather and get one please
+token:
+# your server ip or domain
+domain: "tgbot.mysite.com"
+# which port are you going to listen
+port: "8182"
+# downloaded files url prefix
+download_prefix: "/downloads"
+# downloaded files parent dir
+download_dir: "./downloads"
